@@ -39,8 +39,9 @@
             android:id="@+id/textView4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_centerInParent="true"chongtu
+            android:layout_centerInParent="true"
             android:text="TextView"
+
             />
     </RelativeLayout>
 
